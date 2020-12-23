@@ -1,7 +1,7 @@
 <template>
   <footer class="footer text-muted">
     <div class="container text-center align-middle">
-      &#169; 2020 Nicholas Moen. All rights reserved.
+      &#169; 2020 Nicholas Moen. Licensed freely under <a href="https://mit-license.org/" target="_blank">MIT License</a>.
     </div>
   </footer>
 </template>
